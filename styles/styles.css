@@ -689,7 +689,7 @@ footer{
     transition: transform 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.porfolio-item:hover.porfolio-overlay{
+.porfolio-item:hover .porfolio-overlay-paragraf{
    transform: translateY(0);
 }
 
